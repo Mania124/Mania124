@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm @Mania124!
+# 👋 Hi there, I'm Hezborn Shikuku!
 
 - 💻 Software developer at **Zone01 Kisumu**
 - 👀 Interested in **Web Development, DevOps, and Cybersecurity**
-- 🌱 My languages are: **Go**, **JS**, **Rust**,**Python** and also taking **Cisco's Networking Course**
-- 🤝 Looking forward to collaborating on projects in the future — always focusing on **skill-building**
+- 🌱 My languages are: **Go**, **JS**, **Rust**, **Python** and also taking **Cisco's Networking Course**
+- 🤝 Looking forward to collaborating on projects in the future - always focusing on **skill-building**
 - 📫 Reach me via [GitHub](https://github.com/Mania124)
 
 ---
