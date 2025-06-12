@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @Mania124
-- I am an apprentice developer at zone01Kisumu
-- 👀 I’m interested in web dev, data analytics and cybersecurity
-- 🌱 I’m currently learning Go, html, css and vanilla JS and also taking Ciscos networking course.
-- 💞️ I’m looking to collaborate on projects in the future but for now most of my effort is directed towards learning
-- 📫 How to reach me ...
+# 👋 Hi there, I'm @Mania124!
 
-<!---
-Mania124/Mania124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Software developer at **Zone01 Kisumu**
+- 👀 Interested in **Web Development, DevOps, and Cybersecurity**
+- 🌱 My languages are: **Go**, **JS**, **Rust**,**Python** and also taking **Cisco's Networking Course**
+- 🤝 Looking forward to collaborating on projects in the future — always focusing on **skill-building**
+- 📫 Reach me via [GitHub](https://github.com/Mania124)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mania124&show_icons=true&theme=radical)
+
+---
+
+## 🔝 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mania124&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mania124&theme=radical)
+
+---
+
+## 👁️ Visitor Count
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mania124.Mania124)
+
+---
+
+*✨ "Keep learning, keep building!" ✨*
